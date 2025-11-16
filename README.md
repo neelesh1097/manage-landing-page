@@ -39,10 +39,6 @@ The goal of this project is to build a responsive landing page following the pro
 * Frontend Mentor community discussions
 * YouTube tutorials
 
-## 🧑‍💻 Author
-
-* Frontend Mentor – *your profile link*
-* GitHub – *your profile link*
 
 ## 🙌 Acknowledgments
 
